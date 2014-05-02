@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="fh79058o_xomak">
+    <serverData>
+      <paths name="fh79058o_xomak">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/fh79058o.bget.ru/public_html" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
+
